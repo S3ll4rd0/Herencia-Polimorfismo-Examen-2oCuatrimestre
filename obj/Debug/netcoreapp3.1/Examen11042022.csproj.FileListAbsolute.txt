@@ -1,0 +1,48 @@
+D:\02.Drive\00.Proyectos\03.C#\04.Repaso C#\Examen11042022-master\bin\Debug\netcoreapp3.1\Examen11042022.exe
+D:\02.Drive\00.Proyectos\03.C#\04.Repaso C#\Examen11042022-master\bin\Debug\netcoreapp3.1\Examen11042022.deps.json
+D:\02.Drive\00.Proyectos\03.C#\04.Repaso C#\Examen11042022-master\bin\Debug\netcoreapp3.1\Examen11042022.runtimeconfig.json
+D:\02.Drive\00.Proyectos\03.C#\04.Repaso C#\Examen11042022-master\bin\Debug\netcoreapp3.1\Examen11042022.runtimeconfig.dev.json
+D:\02.Drive\00.Proyectos\03.C#\04.Repaso C#\Examen11042022-master\bin\Debug\netcoreapp3.1\Examen11042022.dll
+D:\02.Drive\00.Proyectos\03.C#\04.Repaso C#\Examen11042022-master\bin\Debug\netcoreapp3.1\Examen11042022.pdb
+D:\02.Drive\00.Proyectos\03.C#\04.Repaso C#\Examen11042022-master\obj\Debug\netcoreapp3.1\Examen11042022.csproj.AssemblyReference.cache
+D:\02.Drive\00.Proyectos\03.C#\04.Repaso C#\Examen11042022-master\obj\Debug\netcoreapp3.1\Examen11042022.Form1.resources
+D:\02.Drive\00.Proyectos\03.C#\04.Repaso C#\Examen11042022-master\obj\Debug\netcoreapp3.1\Examen11042022.csproj.GenerateResource.cache
+D:\02.Drive\00.Proyectos\03.C#\04.Repaso C#\Examen11042022-master\obj\Debug\netcoreapp3.1\Examen11042022.GeneratedMSBuildEditorConfig.editorconfig
+D:\02.Drive\00.Proyectos\03.C#\04.Repaso C#\Examen11042022-master\obj\Debug\netcoreapp3.1\Examen11042022.AssemblyInfoInputs.cache
+D:\02.Drive\00.Proyectos\03.C#\04.Repaso C#\Examen11042022-master\obj\Debug\netcoreapp3.1\Examen11042022.AssemblyInfo.cs
+D:\02.Drive\00.Proyectos\03.C#\04.Repaso C#\Examen11042022-master\obj\Debug\netcoreapp3.1\Examen11042022.csproj.CoreCompileInputs.cache
+D:\02.Drive\00.Proyectos\03.C#\04.Repaso C#\Examen11042022-master\obj\Debug\netcoreapp3.1\Examen11042022.dll
+D:\02.Drive\00.Proyectos\03.C#\04.Repaso C#\Examen11042022-master\obj\Debug\netcoreapp3.1\Examen11042022.pdb
+D:\02.Drive\00.Proyectos\03.C#\04.Repaso C#\Examen11042022-master\obj\Debug\netcoreapp3.1\Examen11042022.genruntimeconfig.cache
+D:\02.Drive\00.Proyectos\03.C#\03.Examen\Examen11042022-Antonio Nicolás Salmerón Rubio\bin\Debug\netcoreapp3.1\Examen11042022.exe
+D:\02.Drive\00.Proyectos\03.C#\03.Examen\Examen11042022-Antonio Nicolás Salmerón Rubio\bin\Debug\netcoreapp3.1\Examen11042022.deps.json
+D:\02.Drive\00.Proyectos\03.C#\03.Examen\Examen11042022-Antonio Nicolás Salmerón Rubio\bin\Debug\netcoreapp3.1\Examen11042022.runtimeconfig.json
+D:\02.Drive\00.Proyectos\03.C#\03.Examen\Examen11042022-Antonio Nicolás Salmerón Rubio\bin\Debug\netcoreapp3.1\Examen11042022.runtimeconfig.dev.json
+D:\02.Drive\00.Proyectos\03.C#\03.Examen\Examen11042022-Antonio Nicolás Salmerón Rubio\bin\Debug\netcoreapp3.1\Examen11042022.dll
+D:\02.Drive\00.Proyectos\03.C#\03.Examen\Examen11042022-Antonio Nicolás Salmerón Rubio\bin\Debug\netcoreapp3.1\Examen11042022.pdb
+D:\02.Drive\00.Proyectos\03.C#\03.Examen\Examen11042022-Antonio Nicolás Salmerón Rubio\obj\Debug\netcoreapp3.1\Examen11042022.csproj.AssemblyReference.cache
+D:\02.Drive\00.Proyectos\03.C#\03.Examen\Examen11042022-Antonio Nicolás Salmerón Rubio\obj\Debug\netcoreapp3.1\Examen11042022.Form1.resources
+D:\02.Drive\00.Proyectos\03.C#\03.Examen\Examen11042022-Antonio Nicolás Salmerón Rubio\obj\Debug\netcoreapp3.1\Examen11042022.csproj.GenerateResource.cache
+D:\02.Drive\00.Proyectos\03.C#\03.Examen\Examen11042022-Antonio Nicolás Salmerón Rubio\obj\Debug\netcoreapp3.1\Examen11042022.GeneratedMSBuildEditorConfig.editorconfig
+D:\02.Drive\00.Proyectos\03.C#\03.Examen\Examen11042022-Antonio Nicolás Salmerón Rubio\obj\Debug\netcoreapp3.1\Examen11042022.AssemblyInfoInputs.cache
+D:\02.Drive\00.Proyectos\03.C#\03.Examen\Examen11042022-Antonio Nicolás Salmerón Rubio\obj\Debug\netcoreapp3.1\Examen11042022.AssemblyInfo.cs
+D:\02.Drive\00.Proyectos\03.C#\03.Examen\Examen11042022-Antonio Nicolás Salmerón Rubio\obj\Debug\netcoreapp3.1\Examen11042022.csproj.CoreCompileInputs.cache
+D:\02.Drive\00.Proyectos\03.C#\03.Examen\Examen11042022-Antonio Nicolás Salmerón Rubio\obj\Debug\netcoreapp3.1\Examen11042022.dll
+D:\02.Drive\00.Proyectos\03.C#\03.Examen\Examen11042022-Antonio Nicolás Salmerón Rubio\obj\Debug\netcoreapp3.1\Examen11042022.pdb
+D:\02.Drive\00.Proyectos\03.C#\03.Examen\Examen11042022-Antonio Nicolás Salmerón Rubio\obj\Debug\netcoreapp3.1\Examen11042022.genruntimeconfig.cache
+D:\02.Drive\00.Proyectos\03.C#\03.Examen\02.Examen11042022-Antonio Nicolás Salmerón Rubio\bin\Debug\netcoreapp3.1\Examen11042022.exe
+D:\02.Drive\00.Proyectos\03.C#\03.Examen\02.Examen11042022-Antonio Nicolás Salmerón Rubio\bin\Debug\netcoreapp3.1\Examen11042022.deps.json
+D:\02.Drive\00.Proyectos\03.C#\03.Examen\02.Examen11042022-Antonio Nicolás Salmerón Rubio\bin\Debug\netcoreapp3.1\Examen11042022.runtimeconfig.json
+D:\02.Drive\00.Proyectos\03.C#\03.Examen\02.Examen11042022-Antonio Nicolás Salmerón Rubio\bin\Debug\netcoreapp3.1\Examen11042022.runtimeconfig.dev.json
+D:\02.Drive\00.Proyectos\03.C#\03.Examen\02.Examen11042022-Antonio Nicolás Salmerón Rubio\bin\Debug\netcoreapp3.1\Examen11042022.dll
+D:\02.Drive\00.Proyectos\03.C#\03.Examen\02.Examen11042022-Antonio Nicolás Salmerón Rubio\bin\Debug\netcoreapp3.1\Examen11042022.pdb
+D:\02.Drive\00.Proyectos\03.C#\03.Examen\02.Examen11042022-Antonio Nicolás Salmerón Rubio\obj\Debug\netcoreapp3.1\Examen11042022.csproj.AssemblyReference.cache
+D:\02.Drive\00.Proyectos\03.C#\03.Examen\02.Examen11042022-Antonio Nicolás Salmerón Rubio\obj\Debug\netcoreapp3.1\Examen11042022.Form1.resources
+D:\02.Drive\00.Proyectos\03.C#\03.Examen\02.Examen11042022-Antonio Nicolás Salmerón Rubio\obj\Debug\netcoreapp3.1\Examen11042022.csproj.GenerateResource.cache
+D:\02.Drive\00.Proyectos\03.C#\03.Examen\02.Examen11042022-Antonio Nicolás Salmerón Rubio\obj\Debug\netcoreapp3.1\Examen11042022.GeneratedMSBuildEditorConfig.editorconfig
+D:\02.Drive\00.Proyectos\03.C#\03.Examen\02.Examen11042022-Antonio Nicolás Salmerón Rubio\obj\Debug\netcoreapp3.1\Examen11042022.AssemblyInfoInputs.cache
+D:\02.Drive\00.Proyectos\03.C#\03.Examen\02.Examen11042022-Antonio Nicolás Salmerón Rubio\obj\Debug\netcoreapp3.1\Examen11042022.AssemblyInfo.cs
+D:\02.Drive\00.Proyectos\03.C#\03.Examen\02.Examen11042022-Antonio Nicolás Salmerón Rubio\obj\Debug\netcoreapp3.1\Examen11042022.csproj.CoreCompileInputs.cache
+D:\02.Drive\00.Proyectos\03.C#\03.Examen\02.Examen11042022-Antonio Nicolás Salmerón Rubio\obj\Debug\netcoreapp3.1\Examen11042022.dll
+D:\02.Drive\00.Proyectos\03.C#\03.Examen\02.Examen11042022-Antonio Nicolás Salmerón Rubio\obj\Debug\netcoreapp3.1\Examen11042022.pdb
+D:\02.Drive\00.Proyectos\03.C#\03.Examen\02.Examen11042022-Antonio Nicolás Salmerón Rubio\obj\Debug\netcoreapp3.1\Examen11042022.genruntimeconfig.cache
